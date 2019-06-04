@@ -1,4 +1,4 @@
-n,k=input().split()
-n=int(n)
-k=int(k)
-print(n**k)
+p,q=input().split()
+p=int(p)
+q=int(q)
+print(p**q)
