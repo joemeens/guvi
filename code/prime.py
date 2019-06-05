@@ -4,5 +4,5 @@ if(cont>1):
         if(cont%i==0):
             print("no")
             break
-else:
-    print("yes")
+    else:
+        print("yes")
