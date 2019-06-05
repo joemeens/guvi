@@ -7,4 +7,4 @@ for i in range(low,up+1):
             if(i%j==0):
                 break
         else:
-            print(i)
+            print(i,end=" ")
