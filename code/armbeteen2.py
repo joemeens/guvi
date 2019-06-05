@@ -10,4 +10,4 @@ for i in range(p,q+1):
         digit=digit+(rem**od)
         temp=temp//10
     if(i==digit):
-        print(i)
+        print(i,end=" ")
