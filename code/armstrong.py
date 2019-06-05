@@ -12,4 +12,4 @@ while(temp<0):
 if(los==digit):
     print("yes")
 else:
-    print("NO")
+    print("no")
