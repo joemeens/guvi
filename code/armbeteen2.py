@@ -1,7 +1,7 @@
 p,q=input().split()
 p=int(p)
 q=int(q)
-for i in range(p,q+1):
+for i in range(p,q):
     od=len(str(i))
     digit=0
     temp=i
