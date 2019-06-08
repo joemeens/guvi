@@ -1,0 +1,5 @@
+num=int(input())
+a=list(map(str,input().split(" ")))
+ass=sorted(a)
+b=' '.join(ass)
+print(b)
