@@ -1,5 +1,5 @@
 di=input()
-if(di.isdigit()==True):
-    print("Yes")
+if(di>="0"and di<="9"):
+    print("yes")
 else:
     print("No")
