@@ -1,4 +1,4 @@
- mee=input()
+mee=input()
 count=0
 for i in mee:
     if(i==" "):
