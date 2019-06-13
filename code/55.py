@@ -5,5 +5,5 @@ b=nas1*nas2
 if(b%2==0):
     print("even")
 else:
-    print("no")
+    print("odd")
     
