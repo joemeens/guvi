@@ -1,0 +1,6 @@
+nun=input()
+nun=int(nun)
+b=list(map(int,input().split()))
+a=sorted(b)
+print(a[0],end=" ")
+print(a[-1])
