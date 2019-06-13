@@ -1,2 +1,2 @@
-s = input()
-print(len(s))
+post = input()
+print(len(post))
