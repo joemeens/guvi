@@ -1,0 +1,2 @@
+was=input()
+print(was)
