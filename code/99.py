@@ -1,0 +1,6 @@
+b1,b2,b3=input().split()
+b1=int(b1)
+b2=int(b2)
+b3=int(b3)
+a=((b1*b2)%b3)
+print(a)
