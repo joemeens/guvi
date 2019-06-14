@@ -1,0 +1,6 @@
+n1,ps=input().split()
+n=int(n1)
+ps=int(ps)
+a=list(map(int,input().split()))
+list1=sorted(a)
+print(list1[ps-1])
